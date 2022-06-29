@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I specialize in responsive, inclusive user interfaces using <a href="https://www.asuh.com/tech/">semantic HTML, modern CSS and component-based Javascript</a>. I develop professional apps and websites, incorporating thoughtful user experience with the following principles: accessibility, progressive enhancement, SEO and fast performance. I also work with designers to create style guides and design patterns. Cross-platform and cross-browser testing is a must. I am regularly working <a href="https://asuh.com/tech/know/">to improve my experience</a>, whether on the full-stack of technology or the front-end.
+I specialize in responsive, inclusive user interfaces using <a href="https://www.asuh.com/tech/">semantic HTML, CSS focused on the cascade, and component-based Javascript</a>. I incorporate thoughtful user experiences with the following principles: accessibility, progressive enhancement, SEO and fast performance. I enjoy working closely with designers to create systematic, component based designs, define design patterns, and produce style guides. I am regularly working <a href="https://asuh.com/tech/know/">to improve my experience</a>, whether on the full-stack of technology or the front-end.
 
 Oh, and I really enjoy tinkering with setting things up. I have two repositories dedicated to setting up both Windows and MacOS! Take a look below.
